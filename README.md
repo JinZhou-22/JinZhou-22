@@ -1,3 +1,5 @@
-<p align="center">
-  <img src="./hello-world.svg" alt="Hello, World">
-</p>
+$ whoami
+Aurum
+
+$ echo "Hello, World!"
+Hello, World! █
