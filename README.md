@@ -1,5 +1,3 @@
-$ whoami
-Aurum
+aurum@github:~$ ./hello_world
 
-$ echo "Hello, World!"
 Hello, World! █
