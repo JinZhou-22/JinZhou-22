@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./hello-world.svg" alt="Hello, World!" width="900">
+  <img src="./hello-world.svg" alt="hello, world" width="500">
 </p>
